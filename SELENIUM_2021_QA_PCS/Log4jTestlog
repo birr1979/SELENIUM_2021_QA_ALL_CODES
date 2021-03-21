@@ -1,0 +1,132 @@
+2021-02-21 01:44:45,184 INFO T.callmethod [main] my name is INFO
+2021-02-21 01:44:45,187 ERROR T.callmethod [main] my name is INFO
+2021-02-21 01:44:45,187 WARN T.callmethod [main] my name is INFO
+2021-02-21 01:44:45,187 DEBUG T.callmethod [main] my name is INFO
+2021-02-21 01:44:45,187 DEBUG T.callmethod [main] my name is INFO
+2021-02-21 01:48:33,176 INFO T.MainMethods [main] Browser launcehd success!
+2021-02-21 01:48:33,181 INFO T.callmethod [main] my name is INFO
+2021-02-21 01:48:33,181 ERROR T.callmethod [main] my name is INFO
+2021-02-21 01:48:33,181 WARN T.callmethod [main] my name is INFO
+2021-02-21 01:48:33,188 DEBUG T.callmethod [main] my name is INFO
+2021-02-21 01:48:33,188 DEBUG T.callmethod [main] my name is INFO
+2021-02-21 01:49:12,647 INFO T.MainMethods [main] Browser launcehd success!
+2021-02-21 01:49:28,776 INFO T.MainMethods [main] Browser launcehd success!
+2021-02-21 01:49:46,701 INFO T.MainMethods [main] Browser launcehd success!
+2021-02-21 01:50:44,224 INFO T.MainMethods [main] Browser launced success!
+2021-02-21 01:50:56,449 INFO T.MainMethods [main] Browser launced success!
+
+
+2021-02-21 01:52:44,917 INFO T.MainMethods [main] Browser launched success!
+2021-02-21 01:52:54,750 INFO T.MainMethods [main] Browser launched success!
+2021-02-21 01:52:56,097 INFO T.MainMethods [main] Browser launched success!
+2021-02-21 01:54:16,340 INFO T.MainMethods [main] Browser launched success!
+
+
+
+2021-02-21 02:16:20,675 DEBUG l.Log4JTest2 [main] I am debugging
+2021-02-21 02:16:20,677 ERROR l.Log4JTest2 [main] An error occurred
+2021-02-21 02:16:20,677 INFO l.Log4JTest2 [main] This is some info
+2021-02-21 02:16:20,678 FATAL l.Log4JTest2 [main] This is a fatal error
+2021-02-21 02:17:17,765 DEBUG l.Log4JTest2 [main] I am debugging
+2021-02-21 02:17:17,768 ERROR l.Log4JTest2 [main] An error occurred
+2021-02-21 02:17:17,769 INFO l.Log4JTest2 [main] This is some info
+2021-02-21 02:17:17,769 FATAL l.Log4JTest2 [main] This is a fatal error
+2021-02-21 02:21:11,623 DEBUG l.Log4JTest2 [main] I am debugging
+2021-02-21 02:21:11,625 ERROR l.Log4JTest2 [main] An error occurred
+2021-02-21 02:21:11,625 INFO l.Log4JTest2 [main] This is some info
+2021-02-21 02:21:11,625 FATAL l.Log4JTest2 [main] This is a fatal error
+
+
+2021-02-21 02:22:04,826 INFO l.Log4JTest2 [main] 6 is Not equal to 5
+2021-02-21 02:22:04,829 DEBUG l.Log4JTest2 [main] I am debugging
+2021-02-21 02:22:04,829 ERROR l.Log4JTest2 [main] An error occurred
+2021-02-21 02:22:04,829 INFO l.Log4JTest2 [main] This is some info
+2021-02-21 02:22:04,829 FATAL l.Log4JTest2 [main] This is a fatal error
+2021-02-21 13:10:14,119 INFO l.Log4JTest2 [main] 6 is Not equal to 5
+2021-02-21 13:10:14,122 DEBUG l.Log4JTest2 [main] I am debugging
+2021-02-21 13:10:14,122 ERROR l.Log4JTest2 [main] An error occurred
+2021-02-21 13:10:14,122 INFO l.Log4JTest2 [main] This is some info
+2021-02-21 13:10:14,123 FATAL l.Log4JTest2 [main] This is a fatal error
+2021-02-22 03:26:45,021 INFO S.MainMethods [main] Browser launched success!
+2021-02-22 22:25:52,473 INFO S.MainMethods [main] Browser launched success!
+2021-02-22 22:34:12,154 INFO S.MainMethods [main] Browser launched success!
+2021-02-22 22:35:39,555 INFO S.MainMethods [main] Browser launched success!
+2021-02-22 22:36:33,815 INFO S.MainMethods [main] Browser launched success!
+2021-02-22 22:38:08,840 INFO S.MainMethods [main] Browser launched success!
+2021-02-22 22:39:02,087 INFO S.MainMethods [main] Browser launched success!
+2021-02-22 22:39:33,519 INFO S.MainMethods [main] Browser launched success!
+2021-02-22 22:39:53,594 INFO S.MainMethods [main] Browser launched success!
+2021-02-22 22:41:23,940 INFO S.MainMethods [main] Browser launched success!
+2021-02-22 22:46:20,518 INFO S.MainMethods [main] Browser launched success!
+2021-02-22 22:47:24,332 INFO S.MainMethods [main] Browser launched success!
+2021-02-22 22:48:17,360 INFO S.MainMethods [main] Browser launched success!
+2021-02-22 22:49:23,960 INFO S.MainMethods [main] Browser launched success!
+2021-02-22 22:52:52,326 INFO S.MainMethods [main] Browser launched success!
+2021-02-22 22:53:54,196 INFO S.MainMethods [main] Browser launched success!
+2021-02-22 22:54:28,951 INFO S.MainMethods [main] Browser launched success!
+2021-02-22 22:57:17,522 INFO S.MainMethods [main] Browser launched success!
+2021-02-22 23:01:50,270 INFO S.MainMethods [main] Browser launched success!
+2021-02-22 23:04:36,205 INFO S.MainMethods [main] Browser launched success!
+2021-02-22 23:07:52,143 INFO S.MainMethods [main] Browser launched success!
+2021-02-22 23:08:18,967 INFO S.MainMethods [main] Browser launched success!
+2021-02-22 23:18:53,085 INFO S.MainMethods [main] Browser launched success!
+2021-02-22 23:20:49,969 INFO S.MainMethods [main] Browser launched success!
+2021-02-22 23:21:59,272 INFO S.MainMethods [main] Browser launched success!
+2021-02-22 23:22:26,227 INFO S.MainMethods [main] Browser launched success!
+2021-02-22 23:23:18,064 INFO S.MainMethods [main] Browser launched success!
+2021-02-22 23:24:20,069 INFO S.MainMethods [main] Browser launched success!
+2021-02-22 23:25:52,132 INFO S.MainMethods [main] Browser launched success!
+2021-02-22 23:26:10,357 INFO S.MainMethods [main] Browser launched success!
+2021-02-22 23:26:36,107 INFO S.MainMethods [main] Browser launched success!
+2021-02-22 23:28:02,166 INFO S.MainMethods [main] Browser launched success!
+2021-02-22 23:28:47,393 INFO S.MainMethods [main] Browser launched success!
+2021-02-22 23:32:17,593 INFO S.MainMethods [main] Browser launched success!
+2021-02-22 23:37:51,428 INFO S.MainMethods [main] Browser launched success!
+2021-02-22 23:39:49,872 INFO S.MainMethods [main] Browser launched success!
+2021-02-22 23:40:59,250 INFO S.MainMethods [main] Browser launched success!
+2021-02-22 23:43:38,040 INFO S.MainMethods [main] Browser launched success!
+2021-02-23 13:20:07,826 INFO S.MainMethods [main] Browser launched success!
+2021-02-23 13:24:19,917 INFO S.MainMethods [main] Browser launched success!
+2021-02-23 13:26:29,642 INFO S.MainMethods [main] Browser launched success!
+2021-02-23 13:28:51,104 INFO S.MainMethods [main] Browser launched success!
+2021-02-23 13:30:17,349 INFO S.MainMethods [main] Browser launched success!
+2021-02-23 13:33:21,668 INFO S.MainMethods [main] Browser launched success!
+2021-02-23 13:37:25,635 INFO S.MainMethods [main] Browser launched success!
+2021-02-23 13:38:15,779 INFO S.MainMethods [main] Browser launched success!
+2021-02-23 13:40:17,142 INFO S.MainMethods [main] Browser launched success!
+2021-02-23 13:42:23,492 INFO S.MainMethods [main] Browser launched success!
+2021-02-23 13:49:54,613 INFO S.MainMethods [main] Browser launched success!
+2021-02-24 02:13:26,351 INFO S.MainMethods [main] Browser launched success!
+
+
+
+2021-02-28 01:34:00,748 FATAL S.keyWords [main] null Browser Not Started
+2021-02-28 01:34:00,750 INFO S.keyWords [main] Stack Trace Error Message: Cannot invoke "String.equals(Object)" because the return value of "java.util.Properties.getProperty(String)" is null
+2021-02-28 01:35:58,903 FATAL S.keyWords [main] null Browser Not Started
+2021-02-28 01:35:58,906 INFO S.keyWords [main] Stack Trace Error Message: Cannot invoke "String.equals(Object)" because the return value of "java.util.Properties.getProperty(String)" is null
+2021-02-28 01:38:50,158 FATAL S.keyWords [main] null Browser Not Started
+2021-02-28 01:38:50,160 INFO S.keyWords [main] Stack Trace Error Message: Cannot invoke "String.equals(Object)" because the return value of "java.util.Properties.getProperty(String)" is null
+2021-02-28 01:39:39,938 INFO S.keyWords [main] Config.properties File Found
+2021-02-28 01:39:39,941 INFO S.keyWords [main] ObjectRepository.properties File Found
+2021-02-28 01:39:39,941 DEBUG S.keyWords [main] Properties Files Loaded Successfully
+2021-02-28 01:42:11,357 INFO S.keyWords [main] Config.properties File Found
+2021-02-28 01:42:11,360 INFO S.keyWords [main] ObjectRepository.properties File Found
+2021-02-28 01:42:11,360 DEBUG S.keyWords [main] Properties Files Loaded Successfully
+2021-02-28 01:42:13,393 FATAL S.keyWords [main] chrome Browser Not Started
+2021-02-28 01:42:13,393 INFO S.keyWords [main] Stack Trace Error Message: null value in entry: url=null
+
+
+
+
+2021-02-28 01:43:55,273 INFO S.keyWords [main] Config.properties File Found
+2021-02-28 01:43:55,275 INFO S.keyWords [main] ObjectRepository.properties File Found
+2021-02-28 01:43:55,276 DEBUG S.keyWords [main] Properties Files Loaded Successfully
+2021-02-28 01:43:56,988 FATAL S.keyWords [main] chrome Browser Not Started
+2021-02-28 01:43:56,989 INFO S.keyWords [main] Stack Trace Error Message: null value in entry: url=null
+2021-02-28 01:45:41,714 INFO S.keyWords [main] Config.properties File Found
+2021-02-28 01:45:41,717 INFO S.keyWords [main] ObjectRepository.properties File Found
+2021-02-28 01:45:41,717 DEBUG S.keyWords [main] Properties Files Loaded Successfully
+2021-02-28 01:45:44,623 DEBUG S.keyWords [main] chrome was Launched & Navigated to https://www.calculator.net/sales-tax-calculator.html
+2021-02-28 01:52:49,552 INFO S.keyWords [main] ObjectRepository.properties File Found
+2021-02-28 01:52:49,555 DEBUG S.keyWords [main] Properties Files Loaded Successfully
+2021-02-28 01:52:52,367 DEBUG S.keyWords [main] chrome was Launched & Navigated to https://www.calculator.net/sales-tax-calculator.html
