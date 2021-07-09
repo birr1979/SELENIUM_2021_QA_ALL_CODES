@@ -12,9 +12,9 @@ public class ArrayMinMax {
 		}
 		return max;
 	}
+	
 	public int min(int [] []numArray) {
 		int min = numArray[0][0];
-
 		for(int i=0; i<numArray.length; i++ ) {
 			for(int j=0;j<numArray[i].length;j++)
 				if(numArray[i][j]<min) {

@@ -100,8 +100,7 @@ public class FibonacciSequence {
 		}
 		 */
 
-		FibonacciSequence F =new FibonacciSequence();
-		F.FiboSeq();
+		FibonacciSequence.FiboSeq();
 
 	}
 

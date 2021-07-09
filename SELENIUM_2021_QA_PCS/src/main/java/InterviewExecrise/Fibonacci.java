@@ -105,9 +105,21 @@ public class Fibonacci {
 	}
 
 	public static void main(String[] args) {
-
-		Fibonacci usersFib = new Fibonacci();
-		usersFib.fibonacci();
+//
+//		Fibonacci usersFib = new Fibonacci();
+//		usersFib.fibonacci();
+		
+		
+		int a=0;
+		int b=1;
+		
+		for (int i=0; i<10;i++) {
+			int c=a+b;
+			System.out.println(a);
+			a=b;
+			b=c;
+			
+		}
 
 	}
 

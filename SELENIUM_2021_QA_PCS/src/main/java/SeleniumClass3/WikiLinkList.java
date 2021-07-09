@@ -46,7 +46,9 @@ public class WikiLinkList {
 //			System.out.println(Links.getSize());
 //			System.out.println(Links.getText()+Links.getAttribute("herf"));
 //			
-//		}
+	}
+        
+        
 
 
     }

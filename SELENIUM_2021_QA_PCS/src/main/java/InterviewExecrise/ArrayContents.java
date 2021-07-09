@@ -14,7 +14,7 @@ public class ArrayContents {
 		String[] ArrayContent = { "Products", "About", "Learn", "Careers", "Pricing", "Support" };
 		//Variable content
 
-		String content ="Abouts"; //the content Values can be modified to test different content of the lists.
+		String content ="Learn"; //the content Values can be modified to test different content of the lists.
 
 		for (int i = 0; i < ArrayContent.length; i++) {
 

@@ -53,6 +53,7 @@ public class PalindromeString {
 		{
 			System.out.println("The word being tested is not a Palindrome");
 		}
+		
 		//other ways
 		String os="new";
 

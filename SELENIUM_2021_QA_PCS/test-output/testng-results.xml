@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-02-28T14:14:37 EST" name="Default suite" finished-at="2021-02-28T14:14:41 EST" duration-ms="4363">
+  <suite started-at="2021-03-21T14:31:24 EDT" name="Default suite" finished-at="2021-03-21T14:31:24 EDT" duration-ms="71">
     <groups>
     </groups>
-    <test started-at="2021-02-28T14:14:37 EST" name="Default test" finished-at="2021-02-28T14:14:41 EST" duration-ms="4363">
-      <class name="ABCDEFGHIJK.firstTestNGtest">
-        <test-method signature="firstTest()[pri:0, instance:ABCDEFGHIJK.firstTestNGtest@17046283]" started-at="2021-02-28T14:14:37 EST" name="firstTest" finished-at="2021-02-28T14:14:41 EST" duration-ms="4297" status="PASS">
+    <test started-at="2021-03-21T14:31:24 EDT" name="Default test" finished-at="2021-03-21T14:31:24 EDT" duration-ms="71">
+      <class name="ABCDEFGHIJK.test">
+        <test-method signature="sysout()[pri:0, instance:ABCDEFGHIJK.test@63021689]" started-at="2021-03-21T14:31:24 EDT" name="sysout" finished-at="2021-03-21T14:31:24 EDT" duration-ms="9" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- firstTest -->
-      </class> <!-- ABCDEFGHIJK.firstTestNGtest -->
+        </test-method> <!-- sysout -->
+      </class> <!-- ABCDEFGHIJK.test -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
