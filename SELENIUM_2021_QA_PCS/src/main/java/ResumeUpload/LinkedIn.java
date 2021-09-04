@@ -12,8 +12,8 @@ public class LinkedIn {
 	
 	static String url1="https://www.linkedin.com/";
 	static String email="birr_1979@hotmail.com";
-	static String password="bag1979mp6";
-	static String resume="\"C:\\Users\\birr_\\Desktop\\QA AUTOMATION\\Birhanu Sendek_Resume_Mar_2021.docx\"";
+	static String password="Password";
+	static String resume="\"C:\\Users\\birr_\\Desktop\\QA AUTOMATION\\Birhanu Sendek_Resume_2014.docx\"";
 	
 	
 	public static void main(String[] args) throws InterruptedException {
